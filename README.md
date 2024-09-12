@@ -1,4 +1,4 @@
-# SQL_Escape-from-an-Abandoned-Island
+# Escape from an Abandoned Island with SQL 
 
 
 What if one day you have to escape a deserted island using only SQL writing skills?
@@ -11,6 +11,11 @@ SQL Island is an interactive adventure game designed to teach SQL in a fun and e
 
 Visit this link to start your own advanture:
 [https://sql-island.informatik.uni-kl.de/](https://sql-island.informatik.uni-kl.de/)
+
+<br/>
+
+You can join my adventure and read about my SQL journey through my Medium articles linked here.
+[From Code to Coast: A SQL-Powered Escape from an Abandoned Island](https://medium.com/@palmprang/from-code-to-coast-a-sql-powered-escape-from-an-abandoned-island-เอาชีวิตรอดจากเกาะปริศนาด้วย-07fa34ac37e0)
 
 <br/>
 
