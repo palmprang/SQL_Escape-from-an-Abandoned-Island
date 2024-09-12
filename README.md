@@ -15,7 +15,7 @@ Visit this link to start your own advanture:
 <br/>
 
 You can join my adventure and read about my SQL journey through my Medium articles linked here. <br/>
-[From Code to Coast: A SQL-Powered Escape from an Abandoned Island](https://medium.com/@palmprang/from-code-to-coast-a-sql-powered-escape-from-an-abandoned-island-เอาชีวิตรอดจากเกาะปริศนาด้วย-07fa34ac37e0)
+[From Code to Coast: A SQL-Powered Escape from an Abandoned Island (TH) ](https://medium.com/@palmprang/from-code-to-coast-a-sql-powered-escape-from-an-abandoned-island-เอาชีวิตรอดจากเกาะปริศนาด้วย-07fa34ac37e0)
 
 <br/>
 
