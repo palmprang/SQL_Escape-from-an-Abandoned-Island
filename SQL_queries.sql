@@ -219,7 +219,7 @@ group by state
 order by avg(inhabitant.gold) desc;
 
 
--- We choose to kill Dirty sibling instead -> delete Dirty sibling from data
+-- We choose to kill Dirty sibling instead -> Delete Dirty sibling name from data
 delete from inhabitant 
     where name = 'Dirty Dieter' or name = 'Dirty Diane';
 
