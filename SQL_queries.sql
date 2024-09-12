@@ -208,7 +208,7 @@ select job,
     AVG(gold) as average_gold
 from inhabitant
 group by job 
-order by avg(gold) desc;
+order by average_gold desc;
 
 
 -- Calculate average gold per person for each state (status)
@@ -216,7 +216,7 @@ select state,
     avg(inhabitant.gold) as average_gold
 from inhabitant 
 group by state 
-order by avg(inhabitant.gold) desc;
+order by average_gold desc;
 
 
 -- We choose to kill Dirty sibling instead -> Delete Dirty sibling name from data
