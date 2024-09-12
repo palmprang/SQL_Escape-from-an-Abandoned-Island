@@ -32,7 +32,7 @@ Visit this link to start your own advanture:
 
 | Column                     | Description                                | Data type        |
 | -------------------------  | ------------------------------------------ | ---------------- |
-| personid                   | specific ID of each inhabitant             | VARCHAR(5)       | 
+| personid                   | Specific ID of each inhabitant             | VARCHAR(5)       | 
 | name                       | Inhabitant name                            | VARCHAR(30)      |
 | villageid                  | Specific ID of each village                | VARCHAR(5)       | 
 | gender                     | Gender of the inhabitant                   | VARCHAR(1)       |
