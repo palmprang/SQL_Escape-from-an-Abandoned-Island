@@ -8,6 +8,7 @@ What if one day you have to escape a deserted island using only SQL writing skil
 
 SQL Island is an interactive adventure game designed to teach SQL in a fun and engaging way. Players find themselves stranded on a virtual island where they must solve puzzles and complete challenges using SQL queries to uncover clues and find a way off the island.
 
+This platform provides opportunities to practice various SQL commands, including UPDATE, DELETE, WHERE, GROUP BY, and ORDER BY. Furthermore, you can enhance your skills by experimenting with table joins using both WHERE clauses and JOIN clauses.
 
 Visit this link to start your own advanture:
 [https://sql-island.informatik.uni-kl.de/](https://sql-island.informatik.uni-kl.de/)
