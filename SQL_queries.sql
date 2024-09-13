@@ -145,7 +145,7 @@ from village as vil,
 where vil.villageid = inh.villageid 
     and inh.name = 'Dirty Dieter';
 
----- The secind method (JOIN with JOIN clause)
+---- The second method (JOIN with JOIN clause)
 select vil.name 
 from village as vil
 join inhabitant as inh
@@ -180,7 +180,7 @@ from inhabitant, village
 where village.villageid = inhabitant.villageid 
     and village.name = 'Cucumbertown';
 
----- The secind method (JOIN with JOIN clause)
+---- The second method (JOIN with JOIN clause)
 select sum(inh.gold) 
 from inhabitant as inh
 join village as vil
