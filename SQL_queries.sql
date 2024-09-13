@@ -213,7 +213,7 @@ order by average_gold desc;
 
 -- Calculate average gold per person for each state (status)
 select state, 
-    avg(inhabitant.gold) as average_gold
+    avg(gold) as average_gold
 from inhabitant 
 group by state 
 order by average_gold desc;
